@@ -3,8 +3,8 @@ module Main where
 import Lib
 import System.IO (readFile)
 
-main :: IO ()
-main = someFunc
+-- main :: IO ()
+{- main = someFunc -}
 
 greet name = "Hello " ++ name ++ "!"
 
